@@ -1,0 +1,176 @@
+body{
+	background-image: url("http://humanfitproject.com/wp-content/uploads/2015/09/football-field-1140x491.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin:0;
+}
+
+
+img{
+	top: 5%;
+	right:45%;
+	position: absolute;
+	width: 120px
+}
+h1{
+	color: white;
+	font-family: Verdana, Geneva, sans-serif;
+	position: fixed;
+	font-size: 29px;
+	top: 18%;
+	right: 14%;
+
+}
+h6{
+	color: white;
+	font-family: Verdana, Geneva, sans-serif;
+	position: fixed;
+	font-size: 29px;
+	top: 16%;
+	right: 22%;
+}
+
+h4{
+color: white;
+	font-size: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	top: 37.5%;
+	padding-left: 33%;
+	position: absolute;
+}
+
+
+h2 {
+	color: white;
+	font-size: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-top: 500px;
+	margin-top: 5px;
+	padding-left: 400px;
+	position: absolute;
+}
+
+
+.row1{
+	font-family: Verdana, Geneva, sans-serif;
+	padding-left:50px;
+	color: white;
+	padding-left: 28%;
+	padding-left: 28%;
+		padding-bottom: 10%;
+
+}
+.row2{
+	font-family: Verdana, Geneva, sans-serif;
+	padding-left: 50px;
+	color: white;
+	padding-bottom: 50%;
+}
+
+.hello2{
+	padding-left: 680px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: white;
+	padding-top: 255px;
+	position: absolute;
+}
+
+.rows{
+	border:5px solid grey;
+	background-color: #C0C0C0;
+	position: fixed;
+	bottom: 6%;
+	right: 9%;
+	border-radius: 10px;
+	width: 81%;
+	height: 91%;
+}
+
+.submitButton{
+	margin-top: 640px;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-left: 701px;
+	position: absolute;
+}
+
+
+.logoImg10{
+	width: 100%;
+	float: left;
+	right:30%;
+	bottom: 50%;
+	position: absolute;
+}
+
+.logoImg9{
+	width: 100%;
+	float: left;
+	right:15%;
+	bottom: 52%;
+	position: absolute;
+}
+
+.logoImg8{
+	width: 100%;
+	float: left;
+	left:12%;
+	bottom: 51%;
+	position: absolute;
+}
+
+.logoImg7{
+	width: 100%;
+	float: left;
+	right:2%;
+	bottom: 51%;
+	position: absolute;
+}
+
+.logoImg6{
+	width: 100%;
+	float: left;
+	left:27%;
+	bottom: 51%;
+	position: absolute;
+}
+
+.logoImg5{
+	width: 100%;
+	float: left;
+	right:30%;
+	bottom: 31%;
+	position: absolute;
+}
+
+.logoImg4{
+	width: 100%;
+	float: left;
+	right:15%;
+	bottom: 30%;
+	position: absolute;
+}
+
+.logoImg3{
+	width: 100%;
+	float: left;
+	right: 2%;
+	bottom: 30%;
+	position: absolute;
+}
+
+.logoImg2{
+	width: 100%;
+	float: left;
+	left: 12%;
+	bottom: 30%;
+	position: absolute;
+}
+
+
+.logoImg1{
+	width: 100%;
+	float: left;
+	left: 27%;
+	bottom: 30%;
+	position: absolute;
+}

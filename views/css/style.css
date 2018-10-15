@@ -1,0 +1,140 @@
+body{
+	background-image: url("http://humanfitproject.com/wp-content/uploads/2015/09/football-field-1140x491.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin:0;
+/*	position: fixed;
+*/}
+
+h1{
+	color: white;
+	font-family: Verdana, Geneva, sans-serif;
+	position: fixed;
+	font-size: 29px;
+	top: 18%;
+	right: 21%;
+	text-decoration: underline;
+}
+
+h4{
+color: white;
+	font-size: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	top: 32%;
+	padding-left: 33%;
+	position: absolute;
+	padding-bottom: 150px;
+}
+h5{
+	color: white;
+	font-size: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	top: 35%;
+	padding-left: 44%;
+	position: absolute;
+	padding-bottom: 150px;
+}
+
+h2 {
+	color: white;
+	font-size: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+/*	position: fixed;
+*/	padding-top: 500px;
+	margin-top: 5px;
+	padding-left: 400px;
+	position: absolute;
+}
+
+.introSpeech2{
+		color: white;
+	font-size: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-top: 30px;
+	padding-left: 50px;
+
+}
+.introSpeech3{
+		color: white;
+	font-size: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-top: 30px;
+	padding-left: 235px;
+}
+
+.headings{
+	color: black;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-left: 585PX;
+	font-weight: normal;
+	padding-top: 300px;
+	margin-top: 25px;
+	position: absolute;
+}
+
+.spacing1{
+	padding-left: 50px;
+}
+.spacing2{
+	padding-right: 100px;
+}
+.spacing3{
+	padding-left: 25px;
+}
+.spacing4{
+	padding-left: 49px;
+}
+
+.row1{
+	font-family: Verdana, Geneva, sans-serif;
+	padding-left:50px;
+	color: white;
+	padding-left: 28%;
+/*	margin-top: 500px;
+*/	padding-left: 28%;
+		padding-bottom: 10%;
+
+}
+.row2{
+	font-family: Verdana, Geneva, sans-serif;
+	padding-left: 50px;
+/*	margin-top: 5px;
+*/	color: white;
+	padding-bottom: 50%;
+
+}
+.hello{
+	padding-left: 600px;
+	color: white;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-top: 550px;
+	position: absolute;
+}
+.hello2{
+	padding-left: 600px;
+	margin-top: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: white;
+	padding-top: 570px;
+	position: absolute;
+}
+
+.rows{
+	border:5px solid grey;
+	background-color: #C0C0C0;
+	position: fixed;
+	bottom: 2%;
+	right: 20%;
+	border-radius: 10px;
+	width: 55%;
+	height: 80%;
+}
+
+.submitButton{
+	margin-top: 80px;
+/*	margin-bottom: 420px;
+*//*	display: inline-block;
+*/font-family: Verdana, Geneva, sans-serif;
+	font-size: 15px;
+	padding-left: 360px;
+}

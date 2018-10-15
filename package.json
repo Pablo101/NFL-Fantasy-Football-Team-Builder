@@ -1,0 +1,29 @@
+{
+  "name": "project_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "express-react-views": "^0.10.5",
+    "js-sha256": "^0.9.0",
+    "method-override": "^3.0.0",
+    "pg": "^7.5.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "sha256": "^0.2.0"
+  }
+}
+
+
